@@ -1,0 +1,13 @@
+G:\Duc\test\GET_File\bin\Debug\netcoreapp3.1\GET_File.exe
+G:\Duc\test\GET_File\bin\Debug\netcoreapp3.1\GET_File.deps.json
+G:\Duc\test\GET_File\bin\Debug\netcoreapp3.1\GET_File.runtimeconfig.json
+G:\Duc\test\GET_File\bin\Debug\netcoreapp3.1\GET_File.runtimeconfig.dev.json
+G:\Duc\test\GET_File\bin\Debug\netcoreapp3.1\GET_File.dll
+G:\Duc\test\GET_File\bin\Debug\netcoreapp3.1\GET_File.pdb
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.csprojAssemblyReference.cache
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.AssemblyInfoInputs.cache
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.AssemblyInfo.cs
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.csproj.CoreCompileInputs.cache
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.dll
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.pdb
+G:\Duc\test\GET_File\obj\Debug\netcoreapp3.1\GET_File.genruntimeconfig.cache
